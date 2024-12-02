@@ -1,3 +1,5 @@
+Monitoring cardiac disorders with apnea and sleep stress aims to detect abnormal patterns in ECG signals associated with breathing disruptions during sleep and sleep-related stress, providing valuable insights into heart health during rest.
+
 Sleep stress, often linked to poor-quality or insufficient sleep, is a condition in which stress disrupts normal sleep patterns, potentially leading to a cycle where stress causes sleep disturbances, and these disturbances, in turn, heighten stress levels.
 
 Physiological Indicators
